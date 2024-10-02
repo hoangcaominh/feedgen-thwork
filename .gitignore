@@ -131,3 +131,6 @@ dist
 
 # SQLite files
 database/*
+
+# Build folder
+[Bb]uild/
